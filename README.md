@@ -1,17 +1,20 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Wireflow PlantSwap
 <!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
 
 ## Gebruiker
-<!-- Het is duidelijk wie de gebruiker is -->
+
+- Buurtbewoner van Amsterdam
+
 
 ## User Story
-<!-- Er is een User Story geschreven van de interactie -->
+
+- Als buurtbewoner wil ik een overzicht van stekjes zodat ik kan overwegen om een stekje te ruilen
 
 ## Wireflow
-<!-- Toon de wireflow -->
 
+![image](https://user-images.githubusercontent.com/112856590/214272362-dbc3b2d6-8816-46ae-93ec-2c3418715621.png)
  
 
 ## Licentie
